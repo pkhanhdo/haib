@@ -1,4 +1,3 @@
-/*.txt
-/AMC
-/AMC-GM-CAN/*
-!/AMC-GM-CAN/SRC
+**/*.*
+
+!/**/SRC/*.*
